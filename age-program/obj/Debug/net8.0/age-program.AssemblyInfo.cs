@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("age-program")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7644b0d4e1a617f4f36aad03b6f1c17b044787cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+210bbdbca918582e1788c01b33a4612871154f67")]
 [assembly: System.Reflection.AssemblyProductAttribute("age-program")]
 [assembly: System.Reflection.AssemblyTitleAttribute("age-program")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
