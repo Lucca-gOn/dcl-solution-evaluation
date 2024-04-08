@@ -5,7 +5,7 @@ USE ProductColors;
 CREATE TABLE Produto(
 	IdProduto INT PRIMARY KEY IDENTITY,
 	NomeProduto VARCHAR(50),
-	PrecoProduto DECIMAL(10, 2)
+	PrecoProduto DECIMAL(10, 2),
 );
 
 CREATE TABLE Cor(
