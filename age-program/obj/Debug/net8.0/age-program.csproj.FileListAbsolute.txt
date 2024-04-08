@@ -1,0 +1,15 @@
+C:\Users\Lucas\OneDrive\Desktop\dcl-solution-evaluation\age-program\bin\Debug\net8.0\age-program.exe
+C:\Users\Lucas\OneDrive\Desktop\dcl-solution-evaluation\age-program\bin\Debug\net8.0\age-program.deps.json
+C:\Users\Lucas\OneDrive\Desktop\dcl-solution-evaluation\age-program\bin\Debug\net8.0\age-program.runtimeconfig.json
+C:\Users\Lucas\OneDrive\Desktop\dcl-solution-evaluation\age-program\bin\Debug\net8.0\age-program.dll
+C:\Users\Lucas\OneDrive\Desktop\dcl-solution-evaluation\age-program\bin\Debug\net8.0\age-program.pdb
+C:\Users\Lucas\OneDrive\Desktop\dcl-solution-evaluation\age-program\obj\Debug\net8.0\age-program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\OneDrive\Desktop\dcl-solution-evaluation\age-program\obj\Debug\net8.0\age-program.AssemblyInfoInputs.cache
+C:\Users\Lucas\OneDrive\Desktop\dcl-solution-evaluation\age-program\obj\Debug\net8.0\age-program.AssemblyInfo.cs
+C:\Users\Lucas\OneDrive\Desktop\dcl-solution-evaluation\age-program\obj\Debug\net8.0\age-program.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Desktop\dcl-solution-evaluation\age-program\obj\Debug\net8.0\age-program.sourcelink.json
+C:\Users\Lucas\OneDrive\Desktop\dcl-solution-evaluation\age-program\obj\Debug\net8.0\age-program.dll
+C:\Users\Lucas\OneDrive\Desktop\dcl-solution-evaluation\age-program\obj\Debug\net8.0\refint\age-program.dll
+C:\Users\Lucas\OneDrive\Desktop\dcl-solution-evaluation\age-program\obj\Debug\net8.0\age-program.pdb
+C:\Users\Lucas\OneDrive\Desktop\dcl-solution-evaluation\age-program\obj\Debug\net8.0\age-program.genruntimeconfig.cache
+C:\Users\Lucas\OneDrive\Desktop\dcl-solution-evaluation\age-program\obj\Debug\net8.0\ref\age-program.dll
