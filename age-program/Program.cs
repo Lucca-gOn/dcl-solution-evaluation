@@ -22,4 +22,4 @@ int days = int.Parse(Console.ReadLine());
 
 int totalDays = (years * 365) + (months * 30) + days;
 
-Console.WriteLine($"Você viveu aproximadamente {totalDays} dias.");
+Console.WriteLine($"Sua idade em dias é {totalDays} dias.");
